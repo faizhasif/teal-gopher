@@ -1,4 +1,4 @@
-module github.com/faizhasif/teal-gopher
+module teal-gopher
 
 go 1.20
 
